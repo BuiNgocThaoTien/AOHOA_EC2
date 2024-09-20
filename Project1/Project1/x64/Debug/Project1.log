@@ -1,0 +1,18 @@
+﻿  Project1.cpp
+C:\Users\ADMIN\source\repos\Project1\Project1\resource.h(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(31,28): error C2065: 'IDS_APP_TITLE': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(32,28): error C2065: 'IDC_PROJECT1': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(41,54): error C2065: 'IDC_PROJECT1': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(76,47): error C2065: 'IDI_PROJECT1': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(79,27): error C2065: 'IDC_PROJECT1': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(81,52): error C2065: 'IDI_SMALL': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(134,18): error C2065: 'IDM_ABOUT': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(134,18): error C2131: expression did not evaluate to a constant
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(134,18): message : a non-constant (sub-)expression was encountered
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(135,17): error C2065: 'IDD_ABOUTBOX': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(137,18): error C2065: 'IDM_EXIT': undeclared identifier
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(137,18): error C2131: expression did not evaluate to a constant
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(137,18): message : a non-constant (sub-)expression was encountered
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(134,1): error C2051: case expression not constant
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(137,1): error C2051: case expression not constant
+C:\Users\ADMIN\source\repos\Project1\Project1\Project1.cpp(142,13): warning C4065: switch statement contains 'default' but no 'case' labels
